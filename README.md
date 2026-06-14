@@ -21,5 +21,7 @@ A lightweight, fast Python utility designed for industrial Track & Trace (Serial
 ```
 ## Example Output
 2026-06-14 10:15:00,123 - CRITICAL - FMD_ANALYZER - Compliance Alert: Found 2 duplicate serial numbers!
+
 2026-06-14 10:15:00,124 - WARNING - FMD_ANALYZER - Network Alert: 1 events failed to sync (timeouts).
+
 2026-06-14 10:15:00,125 - INFO - FMD_ANALYZER - Analysis Complete. Report: {'duplicates_found': ['SN123456789', 'SN987654321'], 'failed_sync_events': ['Event_ID_402']}
