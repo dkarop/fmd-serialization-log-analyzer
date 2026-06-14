@@ -18,7 +18,7 @@ A lightweight, fast Python utility designed for industrial Track & Trace (Serial
 3. Execute the script:
 ```bash
    python analyze_fmd_logs.py
-
+```
 ## Example Output
 2026-06-14 10:15:00,123 - CRITICAL - FMD_ANALYZER - Compliance Alert: Found 2 duplicate serial numbers!
 2026-06-14 10:15:00,124 - WARNING - FMD_ANALYZER - Network Alert: 1 events failed to sync (timeouts).
